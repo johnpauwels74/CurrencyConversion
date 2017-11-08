@@ -1,14 +1,7 @@
 <resources>
-    <string name="app_name">Tip Calculator</string>
-    <string name="btn_calculate">Calculate Tip</string>
-    <string name="description">Tip Calculator</string>
-    <string name="prompt">Enter Total</string>
-    <string name="txtSpinner">Select Tip Percentage</string>
-    <string-array name="txtGroup">
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-    </string-array>
+    <string name="app_name">Currency Conversion</string>
+    <string name="hint">Enter Amount</string>
+    <string name="rad_cn_to_us">Convert Chinese Yuan to US Dollars</string>
+    <string name="rad_us_to_cn">Convert US Dollars to Chinese Yuan</string>
+    <string name="btn_convert">Convert Currency</string>
 </resources>

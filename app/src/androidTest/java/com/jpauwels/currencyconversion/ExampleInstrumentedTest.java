@@ -1,4 +1,4 @@
-package com.jpauwels.tipcalculator;
+package com.jpauwels.currencyconversion;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.jpauwels.tipcalculator", appContext.getPackageName());
+        assertEquals("com.jpauwels.currencyconversion", appContext.getPackageName());
     }
 }

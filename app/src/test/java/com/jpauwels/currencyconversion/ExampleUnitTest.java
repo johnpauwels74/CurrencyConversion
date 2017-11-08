@@ -1,4 +1,4 @@
-package com.jpauwels.tipcalculator;
+package com.jpauwels.currencyconversion;
 
 import org.junit.Test;
 
